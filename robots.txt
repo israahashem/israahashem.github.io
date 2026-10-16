@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://israahashem.github.io/sitemap.xml
